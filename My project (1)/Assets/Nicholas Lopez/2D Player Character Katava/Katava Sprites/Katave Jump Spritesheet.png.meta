@@ -1,0 +1,622 @@
+fileFormatVersion: 2
+guid: ce022b913daec2a429e6c1f9294f480b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 413721794287059385
+    second: Katave Jump Spritesheet_0
+  - first:
+      213: 8966910783729960633
+    second: Katave Jump Spritesheet_1
+  - first:
+      213: -2238540132446610983
+    second: Katave Jump Spritesheet_2
+  - first:
+      213: 5284321192837442397
+    second: Katave Jump Spritesheet_3
+  - first:
+      213: 5606859374151867834
+    second: Katave Jump Spritesheet_4
+  - first:
+      213: 2879037660057899478
+    second: Katave Jump Spritesheet_5
+  - first:
+      213: 6391135454977571204
+    second: Katave Jump Spritesheet_6
+  - first:
+      213: -8613596677091765739
+    second: Katave Jump Spritesheet_7
+  - first:
+      213: 6457050833924490330
+    second: Katave Jump Spritesheet_8
+  - first:
+      213: 6392215957425691899
+    second: Katave Jump Spritesheet_9
+  - first:
+      213: 83821258268251639
+    second: Katave Jump Spritesheet_10
+  - first:
+      213: -7500078954782717688
+    second: Katave Jump Spritesheet_11
+  - first:
+      213: -4627696243235465043
+    second: Katave Jump Spritesheet_12
+  - first:
+      213: 4614091704846312732
+    second: Katave Jump Spritesheet_13
+  - first:
+      213: 9063137178326250357
+    second: Katave Jump Spritesheet_14
+  - first:
+      213: 3592505958204264834
+    second: Katave Jump Spritesheet_15
+  - first:
+      213: -7898907870599113235
+    second: Katave Jump Spritesheet_16
+  - first:
+      213: -2575634601657976757
+    second: Katave Jump Spritesheet_17
+  - first:
+      213: 6962730167451505050
+    second: Katave Jump Spritesheet_18
+  - first:
+      213: -7052033509993534961
+    second: Katave Jump Spritesheet_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Katave Jump Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 350
+        height: 450
+      alignment: 9
+      pivot: {x: 0.515, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b14158a7c5ddb500800000000000000
+      internalID: 413721794287059385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katave Jump Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1350
+        width: 350
+        height: 450
+      alignment: 9
+      pivot: {x: 0.515, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b608dc59ddd07c70800000000000000
+      internalID: 8966910783729960633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katave Jump Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1350
+        width: 350
+        height: 450
+      alignment: 9
+      pivot: {x: 0.515, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9501e1c9b1fe0e0800000000000000
+      internalID: -2238540132446610983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katave Jump Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1350
+        width: 350
+        height: 450
+      alignment: 9
+      pivot: {x: 0.515, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5be42a902ea55940800000000000000
+      internalID: 5284321192837442397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katave Jump Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1350
+        width: 350
+        height: 450
+      alignment: 9
+      pivot: {x: 0.515, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd14e5f4e09fcd40800000000000000
+      internalID: 5606859374151867834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katave Jump Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 350
+        height: 450
+      alignment: 9
+      pivot: {x: 0.515, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d119be7f7564f720800000000000000
+      internalID: 2879037660057899478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katave Jump Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 900
+        width: 350
+        height: 450
+      alignment: 9
+      pivot: {x: 0.515, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489b759a5dfd1b850800000000000000
+      internalID: 6391135454977571204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katave Jump Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 900
+        width: 350
+        height: 450
+      alignment: 9
+      pivot: {x: 0.515, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512d57f757b567880800000000000000
+      internalID: -8613596677091765739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katave Jump Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 900
+        width: 350
+        height: 450
+      alignment: 9
+      pivot: {x: 0.515, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5485b4c58d0c9950800000000000000
+      internalID: 6457050833924490330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katave Jump Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 900
+        width: 350
+        height: 450
+      alignment: 9
+      pivot: {x: 0.515, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc11fdbb86b5b850800000000000000
+      internalID: 6392215957425691899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katave Jump Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 350
+        height: 450
+      alignment: 9
+      pivot: {x: 0.515, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f594b38dfac92100800000000000000
+      internalID: 83821258268251639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katave Jump Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 450
+        width: 350
+        height: 450
+      alignment: 9
+      pivot: {x: 0.515, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8090bc08ded5ae790800000000000000
+      internalID: -7500078954782717688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katave Jump Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 450
+        width: 350
+        height: 450
+      alignment: 9
+      pivot: {x: 0.515, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da85a8d09ce17cfb0800000000000000
+      internalID: -4627696243235465043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katave Jump Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 450
+        width: 350
+        height: 450
+      alignment: 9
+      pivot: {x: 0.515, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15e07485fb880040800000000000000
+      internalID: 4614091704846312732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katave Jump Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 450
+        width: 350
+        height: 450
+      alignment: 9
+      pivot: {x: 0.515, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573b5c0ce3bb6cd70800000000000000
+      internalID: 9063137178326250357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katave Jump Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 350
+        height: 450
+      alignment: 9
+      pivot: {x: 0.515, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2815d3492252bd130800000000000000
+      internalID: 3592505958204264834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katave Jump Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 350
+        height: 450
+      alignment: 9
+      pivot: {x: 0.515, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de517635421716290800000000000000
+      internalID: -7898907870599113235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katave Jump Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 350
+        height: 450
+      alignment: 9
+      pivot: {x: 0.515, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48b8f0e9f1814cd0800000000000000
+      internalID: -2575634601657976757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katave Jump Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 350
+        height: 450
+      alignment: 9
+      pivot: {x: 0.515, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91d7d9723690a060800000000000000
+      internalID: 6962730167451505050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katave Jump Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 350
+        height: 450
+      alignment: 9
+      pivot: {x: 0.515, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a2facc2e4222e90800000000000000
+      internalID: -7052033509993534961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Katave Jump Spritesheet_16: -7898907870599113235
+      Katave Jump Spritesheet_5: 2879037660057899478
+      Katave Jump Spritesheet_2: -2238540132446610983
+      Katave Jump Spritesheet_10: 83821258268251639
+      Katave Jump Spritesheet_3: 5284321192837442397
+      Katave Jump Spritesheet_12: -4627696243235465043
+      Katave Jump Spritesheet_14: 9063137178326250357
+      Katave Jump Spritesheet_18: 6962730167451505050
+      Katave Jump Spritesheet_15: 3592505958204264834
+      Katave Jump Spritesheet_6: 6391135454977571204
+      Katave Jump Spritesheet_4: 5606859374151867834
+      Katave Jump Spritesheet_19: -7052033509993534961
+      Katave Jump Spritesheet_7: -8613596677091765739
+      Katave Jump Spritesheet_17: -2575634601657976757
+      Katave Jump Spritesheet_13: 4614091704846312732
+      Katave Jump Spritesheet_9: 6392215957425691899
+      Katave Jump Spritesheet_8: 6457050833924490330
+      Katave Jump Spritesheet_11: -7500078954782717688
+      Katave Jump Spritesheet_0: 413721794287059385
+      Katave Jump Spritesheet_1: 8966910783729960633
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

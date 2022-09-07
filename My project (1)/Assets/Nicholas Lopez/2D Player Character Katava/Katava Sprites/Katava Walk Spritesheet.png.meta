@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: 46b069535b2cb3b4f9d5c9875c766fb9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6010333628242256818
+    second: Katava Walk Spritesheet_0
+  - first:
+      213: -7936645076062327561
+    second: Katava Walk Spritesheet_1
+  - first:
+      213: 3841228595091943142
+    second: Katava Walk Spritesheet_2
+  - first:
+      213: -850737657118906203
+    second: Katava Walk Spritesheet_3
+  - first:
+      213: -6463289802576707991
+    second: Katava Walk Spritesheet_4
+  - first:
+      213: 8420955527270797274
+    second: Katava Walk Spritesheet_5
+  - first:
+      213: 2880250111780339223
+    second: Katava Walk Spritesheet_6
+  - first:
+      213: -4446891359425175940
+    second: Katava Walk Spritesheet_7
+  - first:
+      213: 6740780735212565184
+    second: Katava Walk Spritesheet_8
+  - first:
+      213: -486254195589994147
+    second: Katava Walk Spritesheet_9
+  - first:
+      213: -6381049815177264041
+    second: Katava Walk Spritesheet_10
+  - first:
+      213: -7031283749920235069
+    second: Katava Walk Spritesheet_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Katava Walk Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 250
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c1903c861079ca0800000000000000
+      internalID: -6010333628242256818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Walk Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 350
+        width: 250
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fca3fc7a5f5bd190800000000000000
+      internalID: -7936645076062327561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Walk Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 350
+        width: 250
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee27873e09ce4530800000000000000
+      internalID: 3841228595091943142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Walk Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 350
+        width: 250
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a82166bb929134f0800000000000000
+      internalID: -850737657118906203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Walk Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 350
+        width: 250
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eb2052b28cd46a0800000000000000
+      internalID: -6463289802576707991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Walk Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 350
+        width: 250
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf86589f6e3dd470800000000000000
+      internalID: 8420955527270797274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Walk Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 350
+        width: 250
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e32f86734b8f720800000000000000
+      internalID: 2880250111780339223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Walk Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 350
+        width: 250
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e55b68ed77942c0800000000000000
+      internalID: -4446891359425175940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Walk Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2342f4d501c8d50800000000000000
+      internalID: 6740780735212565184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Walk Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59a059a26a7049f0800000000000000
+      internalID: -486254195589994147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Walk Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75489485005f177a0800000000000000
+      internalID: -6381049815177264041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Walk Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 250
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1270bceacdb6e90800000000000000
+      internalID: -7031283749920235069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Katava Walk Spritesheet_1: -7936645076062327561
+      Katava Walk Spritesheet_3: -850737657118906203
+      Katava Walk Spritesheet_4: -6463289802576707991
+      Katava Walk Spritesheet_9: -486254195589994147
+      Katava Walk Spritesheet_5: 8420955527270797274
+      Katava Walk Spritesheet_2: 3841228595091943142
+      Katava Walk Spritesheet_0: -6010333628242256818
+      Katava Walk Spritesheet_7: -4446891359425175940
+      Katava Walk Spritesheet_8: 6740780735212565184
+      Katava Walk Spritesheet_10: -6381049815177264041
+      Katava Walk Spritesheet_6: 2880250111780339223
+      Katava Walk Spritesheet_11: -7031283749920235069
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

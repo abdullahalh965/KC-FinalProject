@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: 9c0dcf68ea8251f4695136c75b31ae06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7326865483895537019
+    second: Katava Run Spritesheet_0
+  - first:
+      213: -4786027268264272980
+    second: Katava Run Spritesheet_1
+  - first:
+      213: -6548312653349737325
+    second: Katava Run Spritesheet_2
+  - first:
+      213: 1940733888481135597
+    second: Katava Run Spritesheet_3
+  - first:
+      213: -6522457076458338826
+    second: Katava Run Spritesheet_4
+  - first:
+      213: 800178326140522940
+    second: Katava Run Spritesheet_5
+  - first:
+      213: -299301535579865979
+    second: Katava Run Spritesheet_6
+  - first:
+      213: 5262555737684239605
+    second: Katava Run Spritesheet_7
+  - first:
+      213: -7725711435053240139
+    second: Katava Run Spritesheet_8
+  - first:
+      213: -86830939438604583
+    second: Katava Run Spritesheet_9
+  - first:
+      213: 8328202931935274717
+    second: Katava Run Spritesheet_10
+  - first:
+      213: -5483777013143504029
+    second: Katava Run Spritesheet_11
+  - first:
+      213: -2512470932543500271
+    second: Katava Run Spritesheet_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Katava Run Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 450
+        height: 300
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582065b69aeb15a90800000000000000
+      internalID: -7326865483895537019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Run Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 900
+        width: 450
+        height: 300
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab56c59e8d949db0800000000000000
+      internalID: -4786027268264272980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Run Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 450
+        height: 300
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ca4e21658bf15a0800000000000000
+      internalID: -6548312653349737325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Run Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 900
+        width: 450
+        height: 300
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb0b7a603fdeea10800000000000000
+      internalID: 1940733888481135597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Run Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 450
+        height: 300
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5c7fea8d39b75a0800000000000000
+      internalID: -6522457076458338826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Run Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 600
+        width: 450
+        height: 300
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb19296b2fdca1b00800000000000000
+      internalID: 800178326140522940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Run Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 450
+        height: 300
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c7803d6daa8dbf0800000000000000
+      internalID: -299301535579865979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Run Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 600
+        width: 450
+        height: 300
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4ec5baf8a580940800000000000000
+      internalID: 5262555737684239605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Run Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 450
+        height: 300
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b07a74e162c8c490800000000000000
+      internalID: -7725711435053240139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Run Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 300
+        width: 450
+        height: 300
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de9f3b78b38bcef0800000000000000
+      internalID: -86830939438604583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Run Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 450
+        height: 300
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd66e5f1178b39370800000000000000
+      internalID: 8328202931935274717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Run Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 300
+        width: 450
+        height: 300
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bf0206cd5b5e3b0800000000000000
+      internalID: -5483777013143504029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Run Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 450
+        height: 300
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110104d9ff8e12dd0800000000000000
+      internalID: -2512470932543500271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Katava Run Spritesheet_0: -7326865483895537019
+      Katava Run Spritesheet_9: -86830939438604583
+      Katava Run Spritesheet_11: -5483777013143504029
+      Katava Run Spritesheet_8: -7725711435053240139
+      Katava Run Spritesheet_6: -299301535579865979
+      Katava Run Spritesheet_7: 5262555737684239605
+      Katava Run Spritesheet_5: 800178326140522940
+      Katava Run Spritesheet_2: -6548312653349737325
+      Katava Run Spritesheet_3: 1940733888481135597
+      Katava Run Spritesheet_10: 8328202931935274717
+      Katava Run Spritesheet_1: -4786027268264272980
+      Katava Run Spritesheet_4: -6522457076458338826
+      Katava Run Spritesheet_12: -2512470932543500271
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: ad6f3f58b59656e4e87f595b8621a001
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2887130295334379332
+    second: Katava Stagger Mid Spritesheet_0
+  - first:
+      213: -8860120210338676371
+    second: Katava Stagger Mid Spritesheet_1
+  - first:
+      213: -7569150718317635068
+    second: Katava Stagger Mid Spritesheet_2
+  - first:
+      213: -7491477094768315576
+    second: Katava Stagger Mid Spritesheet_3
+  - first:
+      213: -5055344187371285124
+    second: Katava Stagger Mid Spritesheet_4
+  - first:
+      213: 7743277544942238904
+    second: Katava Stagger Mid Spritesheet_5
+  - first:
+      213: -155455461573704613
+    second: Katava Stagger Mid Spritesheet_6
+  - first:
+      213: 3583040176629044182
+    second: Katava Stagger Mid Spritesheet_7
+  - first:
+      213: 7364003391144718089
+    second: Katava Stagger Mid Spritesheet_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Katava Stagger Mid Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 400
+        height: 350
+      alignment: 9
+      pivot: {x: 0.47, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f9ca9f4b5211820800000000000000
+      internalID: 2887130295334379332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Stagger Mid Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 350
+        width: 400
+        height: 350
+      alignment: 9
+      pivot: {x: 0.47, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6101839c978a0580800000000000000
+      internalID: -8860120210338676371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Stagger Mid Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 350
+        width: 400
+        height: 350
+      alignment: 9
+      pivot: {x: 0.47, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ad8475689f4f690800000000000000
+      internalID: -7569150718317635068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Stagger Mid Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 350
+        width: 400
+        height: 350
+      alignment: 9
+      pivot: {x: 0.47, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843fb5b164de80890800000000000000
+      internalID: -7491477094768315576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Stagger Mid Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 350
+        width: 400
+        height: 350
+      alignment: 9
+      pivot: {x: 0.47, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c751666fe3fc7d9b0800000000000000
+      internalID: -5055344187371285124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Stagger Mid Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 350
+      alignment: 9
+      pivot: {x: 0.47, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc7a87c6e5a57b60800000000000000
+      internalID: 7743277544942238904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Stagger Mid Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 350
+      alignment: 9
+      pivot: {x: 0.47, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b544182d416b7ddf0800000000000000
+      internalID: -155455461573704613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Stagger Mid Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400
+        height: 350
+      alignment: 9
+      pivot: {x: 0.47, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d35def8e0489b130800000000000000
+      internalID: 3583040176629044182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Stagger Mid Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 400
+        height: 350
+      alignment: 9
+      pivot: {x: 0.47, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fe3fd6112323660800000000000000
+      internalID: 7364003391144718089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Katava Stagger Mid Spritesheet_6: -155455461573704613
+      Katava Stagger Mid Spritesheet_4: -5055344187371285124
+      Katava Stagger Mid Spritesheet_2: -7569150718317635068
+      Katava Stagger Mid Spritesheet_5: 7743277544942238904
+      Katava Stagger Mid Spritesheet_1: -8860120210338676371
+      Katava Stagger Mid Spritesheet_0: 2887130295334379332
+      Katava Stagger Mid Spritesheet_8: 7364003391144718089
+      Katava Stagger Mid Spritesheet_7: 3583040176629044182
+      Katava Stagger Mid Spritesheet_3: -7491477094768315576
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

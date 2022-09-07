@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: 02a9b2ac406c80849a9ebd1071a9c135
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8232023239501062329
+    second: Katava Attack 1 Spritesheet_0
+  - first:
+      213: -3224484911748866853
+    second: Katava Attack 1 Spritesheet_1
+  - first:
+      213: 7363086698710081310
+    second: Katava Attack 1 Spritesheet_2
+  - first:
+      213: 6373975866302559398
+    second: Katava Attack 1 Spritesheet_3
+  - first:
+      213: 1568333297926055927
+    second: Katava Attack 1 Spritesheet_4
+  - first:
+      213: 552346091325857652
+    second: Katava Attack 1 Spritesheet_5
+  - first:
+      213: 9145355145603768562
+    second: Katava Attack 1 Spritesheet_6
+  - first:
+      213: -3558729294154693120
+    second: Katava Attack 1 Spritesheet_7
+  - first:
+      213: -5329732365593826107
+    second: Katava Attack 1 Spritesheet_8
+  - first:
+      213: 7875759105119661774
+    second: Katava Attack 1 Spritesheet_9
+  - first:
+      213: -7185807069051696749
+    second: Katava Attack 1 Spritesheet_10
+  - first:
+      213: -6261380517102453837
+    second: Katava Attack 1 Spritesheet_11
+  - first:
+      213: -1553474760435315306
+    second: Katava Attack 1 Spritesheet_12
+  - first:
+      213: -4019454373966267246
+    second: Katava Attack 1 Spritesheet_13
+  - first:
+      213: 3870165315183512097
+    second: Katava Attack 1 Spritesheet_14
+  - first:
+      213: -7768386114309890457
+    second: Katava Attack 1 Spritesheet_15
+  - first:
+      213: 8436549367137636820
+    second: Katava Attack 1 Spritesheet_16
+  - first:
+      213: 2429621446780775300
+    second: Katava Attack 1 Spritesheet_17
+  - first:
+      213: -1482766659917503275
+    second: Katava Attack 1 Spritesheet_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Katava Attack 1 Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 450
+        height: 350
+      alignment: 9
+      pivot: {x: 0.45, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0a83d65850e3270800000000000000
+      internalID: 8232023239501062329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Attack 1 Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1400
+        width: 450
+        height: 350
+      alignment: 9
+      pivot: {x: 0.45, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc1a9b8e045043d0800000000000000
+      internalID: -3224484911748866853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Attack 1 Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1400
+        width: 450
+        height: 350
+      alignment: 9
+      pivot: {x: 0.45, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f94075750fe2660800000000000000
+      internalID: 7363086698710081310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Attack 1 Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1400
+        width: 450
+        height: 350
+      alignment: 9
+      pivot: {x: 0.45, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a470e59749e47850800000000000000
+      internalID: 6373975866302559398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Attack 1 Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 450
+        height: 350
+      alignment: 9
+      pivot: {x: 0.45, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7ac4833d6d3c510800000000000000
+      internalID: 1568333297926055927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Attack 1 Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1050
+        width: 450
+        height: 350
+      alignment: 9
+      pivot: {x: 0.45, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f9d86f7d35aa700800000000000000
+      internalID: 552346091325857652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Attack 1 Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1050
+        width: 450
+        height: 350
+      alignment: 9
+      pivot: {x: 0.45, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0e08efc04daee70800000000000000
+      internalID: 9145355145603768562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Attack 1 Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1050
+        width: 450
+        height: 350
+      alignment: 9
+      pivot: {x: 0.45, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006022adf8adc9ec0800000000000000
+      internalID: -3558729294154693120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Attack 1 Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 450
+        height: 350
+      alignment: 9
+      pivot: {x: 0.45, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cca0e0d6acf806b0800000000000000
+      internalID: -5329732365593826107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Attack 1 Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 700
+        width: 450
+        height: 350
+      alignment: 9
+      pivot: {x: 0.45, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecea435bd215c4d60800000000000000
+      internalID: 7875759105119661774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Attack 1 Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 700
+        width: 450
+        height: 350
+      alignment: 9
+      pivot: {x: 0.45, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399cea0fa82e64c90800000000000000
+      internalID: -7185807069051696749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Attack 1 Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 700
+        width: 450
+        height: 350
+      alignment: 9
+      pivot: {x: 0.45, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb7e8a089b1b19a0800000000000000
+      internalID: -6261380517102453837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Attack 1 Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 450
+        height: 350
+      alignment: 9
+      pivot: {x: 0.45, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dc7b0afe2f07ae0800000000000000
+      internalID: -1553474760435315306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Attack 1 Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 350
+        width: 450
+        height: 350
+      alignment: 9
+      pivot: {x: 0.45, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cb9d8fa870838c0800000000000000
+      internalID: -4019454373966267246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Attack 1 Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 350
+        width: 450
+        height: 350
+      alignment: 9
+      pivot: {x: 0.45, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a0d8169d695b530800000000000000
+      internalID: 3870165315183512097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Attack 1 Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 350
+        width: 450
+        height: 350
+      alignment: 9
+      pivot: {x: 0.45, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e5b7adcf5213490800000000000000
+      internalID: -7768386114309890457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Attack 1 Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 450
+        height: 350
+      alignment: 9
+      pivot: {x: 0.45, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1194e53f4a41570800000000000000
+      internalID: 8436549367137636820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Attack 1 Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 450
+        height: 350
+      alignment: 9
+      pivot: {x: 0.45, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48be90a45dfb7b120800000000000000
+      internalID: 2429621446780775300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Attack 1 Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 450
+        height: 350
+      alignment: 9
+      pivot: {x: 0.45, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d423de24972c6be0800000000000000
+      internalID: -1482766659917503275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Katava Attack 1 Spritesheet_17: 2429621446780775300
+      Katava Attack 1 Spritesheet_7: -3558729294154693120
+      Katava Attack 1 Spritesheet_11: -6261380517102453837
+      Katava Attack 1 Spritesheet_10: -7185807069051696749
+      Katava Attack 1 Spritesheet_8: -5329732365593826107
+      Katava Attack 1 Spritesheet_12: -1553474760435315306
+      Katava Attack 1 Spritesheet_13: -4019454373966267246
+      Katava Attack 1 Spritesheet_14: 3870165315183512097
+      Katava Attack 1 Spritesheet_6: 9145355145603768562
+      Katava Attack 1 Spritesheet_18: -1482766659917503275
+      Katava Attack 1 Spritesheet_4: 1568333297926055927
+      Katava Attack 1 Spritesheet_15: -7768386114309890457
+      Katava Attack 1 Spritesheet_1: -3224484911748866853
+      Katava Attack 1 Spritesheet_2: 7363086698710081310
+      Katava Attack 1 Spritesheet_16: 8436549367137636820
+      Katava Attack 1 Spritesheet_5: 552346091325857652
+      Katava Attack 1 Spritesheet_9: 7875759105119661774
+      Katava Attack 1 Spritesheet_3: 6373975866302559398
+      Katava Attack 1 Spritesheet_0: 8232023239501062329
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: 35ff13d8bd4280541a5be8a4877caf59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8231387913427017758
+    second: Katava Death 1 Part 3_0
+  - first:
+      213: 4320698011895039472
+    second: Katava Death 1 Part 3_1
+  - first:
+      213: -3505689483074157331
+    second: Katava Death 1 Part 3_2
+  - first:
+      213: -6500197443864436329
+    second: Katava Death 1 Part 3_3
+  - first:
+      213: -2602442709379017125
+    second: Katava Death 1 Part 3_4
+  - first:
+      213: -5644339903209419020
+    second: Katava Death 1 Part 3_5
+  - first:
+      213: -8182436386754610495
+    second: Katava Death 1 Part 3_6
+  - first:
+      213: -2030043274560058787
+    second: Katava Death 1 Part 3_7
+  - first:
+      213: 952842754246481849
+    second: Katava Death 1 Part 3_8
+  - first:
+      213: 2594451457177971692
+    second: Katava Death 1 Part 3_9
+  - first:
+      213: -7752281301215107328
+    second: Katava Death 1 Part 3_10
+  - first:
+      213: 3858397182571103974
+    second: Katava Death 1 Part 3_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Katava Death 1 Part 3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 500
+        height: 650
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10e24c02b3cb3270800000000000000
+      internalID: 8231387913427017758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Death 1 Part 3_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1300
+        width: 500
+        height: 650
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f58db423f336fb30800000000000000
+      internalID: 4320698011895039472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Death 1 Part 3_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1300
+        width: 500
+        height: 650
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4ca843df9495fc0800000000000000
+      internalID: -3505689483074157331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Death 1 Part 3_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1300
+        width: 500
+        height: 650
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791ee844dd8aac5a0800000000000000
+      internalID: -6500197443864436329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Death 1 Part 3_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 500
+        height: 650
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b569827e42442ebd0800000000000000
+      internalID: -2602442709379017125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Death 1 Part 3_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 650
+        width: 500
+        height: 650
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fec3a553c64ba1b0800000000000000
+      internalID: -5644339903209419020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Death 1 Part 3_6
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 650
+        width: 500
+        height: 650
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cab24a6575227e80800000000000000
+      internalID: -8182436386754610495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Death 1 Part 3_7
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 650
+        width: 500
+        height: 650
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a4d2db566d3d3e0800000000000000
+      internalID: -2030043274560058787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Death 1 Part 3_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 650
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b79aa5cf6d293d00800000000000000
+      internalID: 952842754246481849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Death 1 Part 3_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 650
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb6614bad7510420800000000000000
+      internalID: 2594451457177971692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Death 1 Part 3_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 650
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007ab2ada3d5a6490800000000000000
+      internalID: -7752281301215107328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katava Death 1 Part 3_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 650
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6c48d7bc7cb8530800000000000000
+      internalID: 3858397182571103974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Katava Death 1 Part 3_10: -7752281301215107328
+      Katava Death 1 Part 3_6: -8182436386754610495
+      Katava Death 1 Part 3_5: -5644339903209419020
+      Katava Death 1 Part 3_1: 4320698011895039472
+      Katava Death 1 Part 3_0: 8231387913427017758
+      Katava Death 1 Part 3_3: -6500197443864436329
+      Katava Death 1 Part 3_4: -2602442709379017125
+      Katava Death 1 Part 3_8: 952842754246481849
+      Katava Death 1 Part 3_9: 2594451457177971692
+      Katava Death 1 Part 3_2: -3505689483074157331
+      Katava Death 1 Part 3_7: -2030043274560058787
+      Katava Death 1 Part 3_11: 3858397182571103974
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
